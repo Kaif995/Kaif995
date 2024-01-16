@@ -51,7 +51,7 @@
     </td>
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
-    
+ </td>
 </tr>
  
 
