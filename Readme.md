@@ -11,7 +11,7 @@
 
 ✨ Favorite Tech: React, Typescript, python
 
-📓 I’m currently learning Genrative AI... 😭
+📓 I’m currently learning Genrative AI... 
 
 📧 Email: kaifshamim995@gmail.com
 
