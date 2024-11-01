@@ -32,6 +32,9 @@
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
+<td align='center' width="200">
+        <img src="https://cdn.prod.website-files.com/63b5b58a7daa19e69c1941ba/65f9d50141d226a2798e6511_nextjs.png">
+    </td>
  <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
 </td>
