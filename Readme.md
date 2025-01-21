@@ -41,7 +41,9 @@
 <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
 </td>
- 
+ <td align='center' width="200">
+        <img src="https://graphql.org/img/logo.svg" width="80"> <!-- GraphQL Logo -->
+</td>
   
 </tr>
  
