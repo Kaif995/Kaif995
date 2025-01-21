@@ -45,7 +45,7 @@
         <img src="https://graphql.org/img/logo.svg" width="80"> <!-- GraphQL Logo -->
 </td>
 <td align='center' width="200">
-        <img src="https://sanity.io/static/images/logos/sanity-logo.svg" width="80"> <!-- Sanity Logo -->
+        <img src="https://github.com/user-attachments/assets/6f7060da-d9af-4819-885f-35aee5caa3b9" width="80"> <!-- Sanity Logo -->
 </td>
 </tr>
  
