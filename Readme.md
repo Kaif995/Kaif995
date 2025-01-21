@@ -48,7 +48,7 @@
         <img src="https://github.com/user-attachments/assets/6f7060da-d9af-4819-885f-35aee5caa3b9" width="80"> <!-- Sanity Logo -->
 </td>
 <td align='center' width="200">
-        <img src="https://github.com/user-attachments/assets/d871c344-5604-4ae1-a963-a870fc773f2c" width="80"> <!-- Sanity Logo -->
+        <img src="https://github.com/user-attachments/assets/9ed49a88-77d8-4ebf-b171-c835efa715e1" width="80"> <!-- Sanity Logo -->
 </td>
 </tr>
  
