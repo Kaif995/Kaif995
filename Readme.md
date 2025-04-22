@@ -7,7 +7,7 @@
 	
 
 
-🤵 dealing with Agentic AI 🤖
+🤵 dealing with AI 🤖
 
 ✨ Favorite Tech: React, Typescript, python
 
